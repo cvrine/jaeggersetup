@@ -5,7 +5,7 @@ set -e
 echo "=== Iniciando configuração do Raspberry Pi ==="
 
 # Define as variáveis do seu repositório (Altere para o seu usuário/repo)
-GITHUB_REPO="https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git"
+GITHUB_REPO="https://github.com/cvrine/jaeggersetup.git"
 
 echo "--- 1. Baixando e instalando o Hotspot ---"
 # Cria um diretório temporário para clonar o repositório
